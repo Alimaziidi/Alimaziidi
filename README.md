@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Mazidi</h1>
 <h3 align="center">A passionate Android developer from Islamic Iran</h3>
 
-<img align="right" alt="Coding" width="400dp" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400dp" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimaziidi&label=Profile%20views&color=0e75b6&style=flat" alt="alimaziidi" /> </p>
 
